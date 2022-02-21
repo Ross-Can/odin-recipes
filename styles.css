@@ -1,0 +1,33 @@
+/*********************************
+Global Site styles
+**********************************/
+
+body {
+  background-color: lightblue;
+}
+
+h1,
+img,
+p {
+  display: block;
+  text-align: center;
+  margin: auto;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+h3 {
+  display: block;
+}
+
+/*********************************
+Homepage styles
+**********************************/
+
+.home {
+  margin: auto;
+  background-color: green;
+  text-align: center;
+  height: 50%;
+  list-style: none;
+}
